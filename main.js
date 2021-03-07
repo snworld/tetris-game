@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const colors = [
     'orange',
     'red',
-    'white',
+    'magenta',
     'lime',
     'blue'
   ]
